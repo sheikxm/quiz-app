@@ -1,0 +1,52 @@
+[
+    {
+        "question": "Which data structure follows the Last In, First Out (LIFO) principle?",
+        "options": ["Stack", "Queue", "Array", "Linked List"],
+        "answer": "Stack"
+    },
+    {
+        "question": "What is the result of 5 + 3 * 2?",
+        "options": ["16", "11", "13", "10"],
+        "answer": "11"
+    },
+    {
+        "question": "Which programming language is commonly used for web development?",
+        "options": ["Java", "Python", "HTML", "JavaScript"],
+        "answer": "JavaScript"
+    },
+    {
+        "question": "What does HTML stand for?",
+        "options": ["Hyper Transfer Markup Language", "Hyper Text Markup Language", "Hyperlinks and Text Markup Language", "Home Tool Markup Language"],
+        "answer": "Hyper Text Markup Language"
+    },
+    {
+        "question": "What is the extension of a Python source file?",
+        "options": [".py", ".java", ".cpp", ".html"],
+        "answer": ".py"
+    },
+    {
+        "question": "Which of the following is NOT a primary color model used in computer graphics?",
+        "options": ["RGB", "CMYK", "HSL", "YUV"],
+        "answer": "YUV"
+    },
+    {
+        "question": "What does CPU stand for?",
+        "options": ["Central Processing Unit", "Computer Processing Unit", "Central Processor Unit", "Computer Processor Unit"],
+        "answer": "Central Processing Unit"
+    },
+    {
+        "question": "Which of the following is a programming paradigm?",
+        "options": ["Object-Oriented", "Object-Driven", "Object-Focused", "Object-Based"],
+        "answer": "Object-Oriented"
+    },
+    {
+        "question": "What is the purpose of the 'if' statement in programming?",
+        "options": ["Looping", "Decision making", "Function definition", "Variable declaration"],
+        "answer": "Decision making"
+    },
+    {
+        "question": "What does URL stand for?",
+        "options": ["Universal Resource Locator", "Uniform Resource Locator", "Unified Resource Locator", "Unique Resource Locator"],
+        "answer": "Uniform Resource Locator"
+    }
+]
