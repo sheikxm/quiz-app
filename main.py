@@ -107,7 +107,7 @@ if st.session_state.answer_submitted:
             f"Quiz completed! Your score is: {st.session_state.score} / {len(quiz_data) * 10} ({score_percentage}%)")
         if st.session_state.score >= 70:
             st.write(
-                "Congratulations! You scored 70 or above. Here's your key: XYZ123")
+                "Congratulations! You scored 70 or above. Here's your key: GYBNQKURP")
         if st.button('Restart', on_click=restart_quiz):
             pass
 else:
