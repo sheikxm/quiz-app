@@ -108,8 +108,7 @@ if st.session_state.answer_submitted:
         if st.session_state.score >= 70:
             st.write(
                 "Congratulations! You scored 70 or above. Here's your key: GYBNQKURP")
-        if st.button('Restart', on_click=restart_quiz):
-            pass
+       
 else:
     if st.session_state.current_index < len(quiz_data):
         st.button('Submit', on_click=submit_answer)
